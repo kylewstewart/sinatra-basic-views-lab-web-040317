@@ -2,14 +2,18 @@
 
 ## Objectives
 
-1. Set a controller action to render a separate view 
+1. Set a controller action to render a separate view
 2. Render HTML in the view
 
 ## Instructions
 
 <img src="https://s3.amazonaws.com/learn-verified/bowling.gif" hspace="10" align="right" width="300px">
 
-You've been hired to build an app for the local bowling alley. They want a page that displays their regular hours, dates of tournaments, bowling alley bar menus, and eventually, a way to reserve and pay for a lane online.
+You've been hired to build an app for the local bowling alley. They want a page that displays their
+(1)regular hours
+(2)dates of tournaments
+(3)bowling alley bar menus, and eventually, a way to
+(4)reserve and pay for a lane online.
 
 But for now, they'll settle for just the basics.
 
